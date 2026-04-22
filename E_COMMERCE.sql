@@ -20,7 +20,7 @@ CREATE TABLE orders (
     user_id INT,
     order_date DATE,
     status VARCHAR(20),
-    FOREIGN KEY (user_id) REFERENCES user(id)
+    FOREIGN KEY (user_id) REFERENCES user(user_id)
 );
 
 CREATE TABLE ORDER_ITEM(
