@@ -109,9 +109,6 @@ ecommerce-database/
 
 ---
 
-## Source Code
-
-Complete SQL script available here:
 
 
 ---
